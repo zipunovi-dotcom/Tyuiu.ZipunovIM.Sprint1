@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Tyuiu.ZipunovIM.Sprint1.Task1.V2_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.ZipunovIM.Sprint1.Task1.V2.Lib\Tyuiu.ZipunovIM.Sprint1.Task1.V2.Lib.csproj" />
+  </ItemGroup>
+
+</Project>
